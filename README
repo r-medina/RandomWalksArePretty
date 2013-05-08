@@ -1,6 +1,6 @@
 reddit.com/r/dataisbeautiful seemed to like visualizations of 2D random walkers' paths.
 
-I made a python script to generate some pretty pictures.
+I made a python script to generate some pretty pictures. Check some out in the out/ directory.
 
 Original reddit thread:
 http://www.reddit.com/r/dataisbeautiful/comments/1dsrmf/one_million_xy_pairs_representing_a_random_walk/
